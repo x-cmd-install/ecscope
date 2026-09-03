@@ -1,11 +1,13 @@
 about:
-  description: monitor AWS ECS resources from the terminal
+  description:
+  |
+    monitor AWS ECS resources from the terminal
   license: MIT
   homepage: https://tools.dhruvs.space/ecscope
   head: fee20dc
   archived: false
   latestVersion: v0.4.1
-  collectedAt: 2026-09-03T05:35:12Z
+  collectedAt: 2026-09-03T22:34:19Z
 timeline:
   created: 2025-03-03
   lastCommit: 2026-06-19
@@ -21,7 +23,7 @@ popularity:
 language:
   Rust: 128265
   Gleam: 17626
-totalLine: 145891
+totalBytes: 145891
 recent:
   last30d:
     since: 2026-08-04
