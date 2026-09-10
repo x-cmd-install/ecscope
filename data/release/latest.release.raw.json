@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 3505468,
       "digest": "sha256:c50f2b532659d5f8f1f5c125bc17f6912fec8c35eeef6daf31fc17009cacf1c6",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-05-15T09:45:15Z",
       "updated_at": "2026-05-15T09:45:15Z",
       "browser_download_url": "https://github.com/dhth/ecscope/releases/download/v0.4.1/ecscope-x86_64-unknown-linux-gnu.tar.xz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 3586896,
       "digest": "sha256:9dc12ab0e91713e2212c3114e1244466bee17f71124419b8e9f64453480024a0",
-      "download_count": 63,
+      "download_count": 64,
       "created_at": "2026-05-15T09:45:15Z",
       "updated_at": "2026-05-15T09:45:16Z",
       "browser_download_url": "https://github.com/dhth/ecscope/releases/download/v0.4.1/ecscope-x86_64-unknown-linux-musl.tar.xz"
