@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.4.1"
   latestRelease: "v0.4.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T05:47:33Z
+  collectedAt: 2026-09-11T19:08:43Z
 timeline:
   created: 2025-03-03
   lastCommit: 2026-06-19
@@ -84,7 +84,7 @@ total:
   commit: 157
 ---
 path: /home/runner/.x-repo/github.com/dhth/ecscope
-collectedAt: 2026-09-11T05:47:33Z
+collectedAt: 2026-09-11T19:08:46Z
 loc:
   JavaScript:
     code: 5155
