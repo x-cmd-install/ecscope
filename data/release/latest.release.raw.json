@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 3505468,
       "digest": "sha256:c50f2b532659d5f8f1f5c125bc17f6912fec8c35eeef6daf31fc17009cacf1c6",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-05-15T09:45:15Z",
       "updated_at": "2026-05-15T09:45:15Z",
       "browser_download_url": "https://github.com/dhth/ecscope/releases/download/v0.4.1/ecscope-x86_64-unknown-linux-gnu.tar.xz"
